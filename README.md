@@ -39,5 +39,5 @@ Delivered full-stack features for State Street's China division; collaborated da
 ## 📬 Connect
 
 - **Email**: nautilus1876@gmail.com
-- **LinkedIn**: [linkedin.com/in/kai-dev](https://linkedin.com/in/kai-dev)
+- **LinkedIn**: [https://www.linkedin.com/in/kai-li-696024230](https://linkedin.com/in/kai-dev)
 - **Website**: [kai.dev](https://kaili.dev)
