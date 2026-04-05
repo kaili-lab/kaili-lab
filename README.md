@@ -1,42 +1,21 @@
-## Hi, I'm Kai 👋
+## Hi, I'm Kai
 
-Full-Stack Developer with 5+ years of experience — Java backend roots, TypeScript full-stack, and AI Agent development. 
-I ship products efficiently using AI tooling while keeping engineering fundamentals solid.
+6+ years of backend and full-stack experience, now building AI products. Can ship complete applications independently.
 
----
-
-## 💼 Experience
-
-**Outsourcing Developer — State Street Bank Project** · Remote
-Delivered full-stack features for State Street's China division; collaborated daily with teammates based in Ireland.
+Backend Node.js, Java · Frontend React
 
 ---
 
-## 🛠 Tech Stack
+## Projects
 
-**Languages** · Java · TypeScript · JavaScript
-
-**Frameworks** · Spring Boot · Next.js · React · Express.js · Hono
-
-**AI & Agents** · LangChain · Vercel AI SDK · OpenAI API · Vector Search
-
-**Data & Infra** · PostgreSQL · MySQL · Redis · Kafka
+- [home-task](https://github.com/kaili-lab/home-task) — Smart task system with multi-agent orchestration and voice interaction
+- [ai-blog](https://github.com/kaili-lab/blog-v1) — Personal blog with AI summaries, auto-generated covers, and vector search
+- [vocab-master](https://github.com/kaili-lab/vocab-master-v1) — Context-based AI vocabulary tool focused on review and long-term retention
+- [say-right](https://github.com/kaili-lab/say-right) — Record ideas in Chinese, convert to natural English, reinforce with spaced repetition
 
 ---
 
-## 🚀 Featured Projects
-
-**AI Agent**
-- [home-task](https://github.com/kaili-lab/home-task) — Multi-agent system for home task management via voice input (LangChain)
-- [chatbot-base](https://github.com/kaili-lab/chatbot-base-v1) — RAG chatbot for chatting with uploaded documents (Vercel AI SDK)
-
-**AI-Enhanced Full-Stack**
-- [vocab-master](https://github.com/kaili-lab/vocab-master-v1) — Context-aware vocabulary learning app with spaced repetition
-- [ai-blog](https://github.com/kaili-lab/blog-v1) — Blog platform with AI-generated summaries, cover images, and vector search
-
----
-
-## 📬 Connect
+## Connect
 
 - **Email**: [nautilus1876@gmail.com](mailto:nautilus1876@gmail.com)
 - **LinkedIn**: [Kai Li](https://www.linkedin.com/in/kai-li-696024230)
